@@ -1,4 +1,4 @@
-# Joe B. | QuantumByt3
+# Joseph Barrow (Joe B.) | QuantumByt3
 
 Security+ certified cybersecurity student and Pikes Peak State College Cyber Club President building practical experience in security operations, Windows/Linux systems, network analysis, digital forensics, controlled cyber-range engineering, and technical documentation.
 
@@ -47,3 +47,5 @@ National Cyber League Spring 2026 Individual Game:
 [quantumbyt3.com](https://www.quantumbyt3.com)
 
 For professional contact, use the [portfolio Contact page](https://www.quantumbyt3.com/contact).
+
+LinkedIn: [Joseph Barrow (Joe B.)](https://www.linkedin.com/in/joe-barrow-cybersecurity/)
